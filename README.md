@@ -1,6 +1,6 @@
-# vue-app
+## vue-app
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
